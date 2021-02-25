@@ -22,3 +22,10 @@ I viewed the heading attributes
 made sure they fall in sequential order
 I viewed the title element
 made sure a concise, descriptive title can be read.
+
+```
+
+## Mock-Up
+Here is a screenshot of the Web Application after the updates have been made to the code:
+
+![Refactoring demo](assets\images\Horiseon_Screenshot.png)
