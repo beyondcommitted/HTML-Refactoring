@@ -6,8 +6,8 @@ Also, semantics of the tags helped in the process of refactoring.
 
 ```
 Here are the link to access the finished work and github:<br>
-https://github.com/beyondcommitted/HTML-Refactoring<br>
-https://beyondcommitted.github.io/HTML-Refactoring/index.html
+## [GitHub](https://github.com/beyondcommitted/HTML-Refactoring)<br>
+## [Deployment](https://beyondcommitted.github.io/HTML-Refactoring/index.html)
 
 ## Meeting the Acceptance Criteria
 ```
@@ -28,4 +28,4 @@ made sure a concise, descriptive title can be read.
 ## Mock-Up
 Here is a screenshot of the Web Application after the updates have been made to the code:
 
-![Refactoring demo](assets\images\Horiseon_Screenshot.png)
+![Refactoring demo](https://github.com/beyondcommitted/HTML-Refactoring/blob/main/assets/images/Horiseon_Screenshot.png?raw=true)
